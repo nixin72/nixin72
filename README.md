@@ -1,9 +1,14 @@
 ### Hi there 👋 I'm Philip
 
-<center>
+<div class="center">
   test
-</center>
+</div>
 
+<style>
+  .center {
+    text-align: center;
+  }
+</style>
 
 
 <!--
