@@ -1,14 +1,8 @@
-### Hi there 👋 I'm Philip
+<h3 align="center">Hi there 👋 I'm Philip</h3>
 
 <div class="center">
   test
 </div>
-
-<style>
-  .center {
-    text-align: center;
-  }
-</style>
 
 
 <!--
