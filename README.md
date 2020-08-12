@@ -1,11 +1,5 @@
 <h3 align="center">
-     Hi there    
-     <img src="https://discordemoji.com/assets/emoji/wavegif_1860.gif"
-          alt="animated waving hand emoji"
-          width="45"
-          height="45"
-          style="margin-bottom: -10px" />
-     I'm Philip
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/header.svg" >
 </h3>
 
 
