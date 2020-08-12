@@ -4,7 +4,7 @@
           alt="animated waving hand emoji"
           width="45"
           height="45"
-          style="margin-top: -5px" />
+          style="margin-bottom: -10px" />
      I'm Philip
 </h3>
 
