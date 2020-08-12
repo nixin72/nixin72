@@ -2,8 +2,9 @@
      Hi there    
      <img src="https://discordemoji.com/assets/emoji/wavegif_1860.gif"
           alt="animated waving hand emoji"
-          width="45"     
-          height="45" />
+          width="45"
+          height="45"
+          style="margin-top: -5px" />
      I'm Philip
 </h3>
 
