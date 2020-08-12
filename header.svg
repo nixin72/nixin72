@@ -7,6 +7,6 @@
   </style>
 
   <text x="00" y="35" class="font">Hi There</text>
-  <image href="./wave.gif" x="65" y="10" height="40" width="40"/>
+  <image href="./wave.png" x="65" y="10" height="40" width="40"/>
   <text x="110" y="35" class="font">I'm Philip</text>
 </svg>
