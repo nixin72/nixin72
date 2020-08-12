@@ -1,6 +1,6 @@
 <h3 align="center">
      Hi there    
-     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.joypixels.com%2Fcontent%2Fimages%2F2019%2F06%2Fwaving_hand_sign_1024.gif&f=1&nofb=1"
+     <img src="https://discordemoji.com/assets/emoji/wavegif_1860.gif"
           alt="animated waving hand emoji"
           width="25"     
           height="25" />
