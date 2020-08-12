@@ -1,5 +1,7 @@
 <h3 align="center">Hi there 👋 I'm Philip</h3>
 
+![wave](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.joypixels.com%2Fcontent%2Fimages%2F2019%2F06%2Fwaving_hand_sign_1024.gif&f=1&nofb=1)
+
 ---
 
 My list of projects is always growing because I keep half building things, so welcome to the graveyard.
