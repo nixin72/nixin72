@@ -15,6 +15,7 @@ My list of projects is always growing because I keep half building things, so we
 **Current projects:**
 - https://github.com/nixin72/spin
 - https://github.com/nixin72/dotfiles
+- https://github.com/nixin72/from-template
 
 **Dead projects:**
 - https://github.com/nixin72/seer
@@ -26,6 +27,6 @@ My list of projects is always growing because I keep half building things, so we
 
 ---
 
-- 💬 Ask me about: Racket, JavaScript, web development
+- 💬 Ask me about: Lisp, JavaScript, web development
 - 📫 How to reach me: phdumaresq@protonmail.com
 - 😄 Pronouns: he/him
