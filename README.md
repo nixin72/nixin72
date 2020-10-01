@@ -13,8 +13,8 @@
 My list of projects is always growing because I keep half building things, so welcome to the graveyard.
 
 **Current projects:**
-- https://github.com/nixin72/spin
 - https://github.com/nixin72/dotfiles
+- https://github.com/nixin72/block-nav.el
 - https://github.com/nixin72/from-template
 
 **Dead projects:**
