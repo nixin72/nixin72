@@ -27,6 +27,6 @@ My list of projects is always growing because I keep half building things, so we
 
 ---
 
-- 💬 Ask me about: Lisp, JavaScript, web development
+- 💬 Ask me about: Lisp, JavaScript, web development, Emacs
 - 📫 How to reach me: phdumaresq@protonmail.com
 - 😄 Pronouns: he/him
