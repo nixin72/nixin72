@@ -14,8 +14,9 @@ My list of projects is always growing because I keep half building things, so we
 
 **Current projects:**
 - https://github.com/nixin72/dotfiles
-- https://github.com/nixin72/block-nav.el
+- https://github.com/nixin72/block-nav.el (now in MELPA!)
 - https://github.com/nixin72/from-template
+- https://github.com/nixin72/staple
 
 **Dead projects:**
 - https://github.com/nixin72/seer
