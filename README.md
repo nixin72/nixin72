@@ -19,13 +19,13 @@ My list of projects is always growing because I keep half building things, so we
 - https://github.com/nixin72/from-template
 
 **Dead projects:**
-- https://github.com/nixin72/staple
-- https://github.com/nixin72/seer
-- https://github.com/nixin72/project-icarus
-- https://github.com/nixin72/pattern-match.js
+- https://github.com/nixin72/staple - Doom Emacs does this already
+- https://github.com/nixin72/seer - Discovered ripgrep which is so far this isn't necessary
+- https://github.com/nixin72/project-icarus - Discovered Clojure, which is everything I wanted and more
+- https://github.com/nixin72/pattern-match.js - Better alternatives (also I want out of JS)
 
 ---
 
-- 💬 Ask me about: Clojure, JavaScript, web development, Emacs
+- 💬 Ask me about: Clojure, Emacs, Linux, functional programming
 - 📫 How to reach me: phdumaresq@protonmail.com
 - 😄 Pronouns: he/him
