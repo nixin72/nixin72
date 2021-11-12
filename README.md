@@ -29,3 +29,12 @@ My list of projects is always growing because I keep half building things, so we
 - 💬 Ask me about: Clojure, Emacs, Linux, functional programming
 - 📫 How to reach me: phdumaresq@protonmail.com
 - 😄 Pronouns: he/him
+
+<img src="https://komarev.com/ghpvc/?username=nixin72&color=blue&style=flat">
+
+---
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=nixin72&theme=onedark&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=nixin72&theme=onedark&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true" />
+</div>
