@@ -20,7 +20,7 @@ My list of projects is always growing because I keep half building things, so we
 
 **Dead projects:**
 - https://github.com/nixin72/staple - Doom Emacs does this already
-- https://github.com/nixin72/seer - Discovered ripgrep which is so far this isn't necessary
+- https://github.com/nixin72/seer - Discovered ripgrep which is so fast this isn't necessary
 - https://github.com/nixin72/project-icarus - Discovered Clojure, which is everything I wanted and more
 - https://github.com/nixin72/pattern-match.js - Better alternatives (also I want out of JS)
 
