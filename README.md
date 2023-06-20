@@ -10,12 +10,10 @@
 
 ---
 
-Currently writing a lot of Clojure in my spare time and React Native at work. 
+Currently writing a lot of Clojure at work and not so much code in my spare time
 
 **Current projects:**
-- https://github.com/nixin72/shan
-- https://github.com/nixin72/dotfiles
-- https://github.com/nixin72/block-nav.el
+...Hmm, nothing really right now actually.
 
 ---
 
